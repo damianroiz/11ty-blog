@@ -5,6 +5,7 @@ author: "Damian "
 date: 2021-11-26T02:32:33.461Z
 tags:
   - post
+  - featured
 image: /assets/blog/img_9674.jpg
 imageAlt: book quote
 ---
