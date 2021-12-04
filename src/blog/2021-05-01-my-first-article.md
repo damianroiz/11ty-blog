@@ -1,6 +1,6 @@
 ---
 title: My First Article
-author: Kevin Powell
+author: Damian Roiz
 date: 2021-05-01
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
