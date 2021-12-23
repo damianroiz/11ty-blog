@@ -229,16 +229,17 @@ section,
 nav {
   background: var(--secondary-dark);
   padding: 5px 40px;
-  height: 90px;
+  height: 100px;
 }
 
 nav ul.nav-bar {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-content: center;
+  align-content: end;
   list-style: none;
   max-height: auto;
+  padding-top: 15px;
 }
 
 nav ul.nav-bar li {
