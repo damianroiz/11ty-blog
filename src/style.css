@@ -484,8 +484,9 @@ footer {
 }
 
 .right form .subscribe-btn button:hover {
-  background: var(--btn-subscribe-hover);
-  color: var(--main-white);
+  background: transparent;
+  color: var(--btn-subscribe);
+  border: 2px solid var(--btn-subscribe);
 }
 
 .bottom {
@@ -516,20 +517,6 @@ footer {
 .bottom a:hover {
   text-decoration: underline;
   transition: 0.3s;
-}
-
-@media screen and (max-width: 900px) {
-  footer {
-    position: relative;
-    bottom: 0px;
-  }
-  .main-content {
-    flex-wrap: wrap;
-    flex-direction: column;
-  }
-  .main-content .box {
-    margin: 5px 0;
-  }
 }
 
 /* //////////////////////
