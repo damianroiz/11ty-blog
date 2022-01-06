@@ -658,6 +658,7 @@ footer {
   background: var(--blue-primary);
   color: var(--main-white);
   border: 2px solid var(--blue-primary);
+  transition: 0.3s;
 }
 .btn--primary:hover,
 .btn--primary:focus {
@@ -667,15 +668,18 @@ footer {
 }
 
 .btn--neutral {
-  background-color: var(--clr-neutral-100);
-  color: var(--blue-primary);
+  background-color: var(--btn-hover);
+  color: var(--main-white);
   font-weight: var(--fw-400);
   border: 2px solid var(--blue-primary);
+  border: 2px solid var(--blue-hover);
+  transition: 0.3s;
 }
 
 .btn--neutral:hover,
 .btn--neutral:focus {
-  color: var(--main-white);
+  background-color: var(--clr-neutral-100);
+  color: var(--blue-primary);
   background-color: var(--btn-hover);
-  border: 2px solid var(--blue-hover);
+  border: 2px solid var(--blue-primary);
 }
