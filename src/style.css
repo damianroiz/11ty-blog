@@ -650,16 +650,20 @@ footer {
   outline-offset: 0.25em;
 }
 
-.btn--primary {
+.btn--primary .btn--neutral {
   font-family: var(--ff-button);
   font-weight: var(--fw-400);
   font-size: var(--fs-400);
   letter-spacing: 0.5px;
+  transition: 0.3s;
+}
+
+.btn--primary {
   background: var(--blue-primary);
   color: var(--main-white);
   border: 2px solid var(--blue-primary);
-  transition: 0.3s;
 }
+
 .btn--primary:hover,
 .btn--primary:focus {
   background-color: transparent;
@@ -670,14 +674,12 @@ footer {
 .btn--neutral {
   background-color: var(--btn-hover);
   color: var(--main-white);
-  font-weight: var(--fw-400);
   border: 2px solid var(--blue-hover);
-  transition: 0.3s;
 }
 
 .btn--neutral:hover,
 .btn--neutral:focus {
   background-color: transparent;
   color: var(--btn-hover);
-  /* border: 2px solid var(--btn-hover); */
+  border: 2px solid var(--btn-hover);
 }
