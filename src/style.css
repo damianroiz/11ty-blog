@@ -173,6 +173,7 @@ section,
 .flex-group {
   display: flex;
   flex-wrap: wrap;
+  align-items: stretch;
   gap: 1em;
 }
 
