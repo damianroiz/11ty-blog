@@ -664,22 +664,20 @@ footer {
 .btn--primary:focus {
   background-color: transparent;
   color: var(--blue-primary);
-  border: 2px solid var(--blue-primary);
+  /* border: 2px solid var(--blue-primary); */
 }
 
 .btn--neutral {
   background-color: var(--btn-hover);
   color: var(--main-white);
   font-weight: var(--fw-400);
-  border: 2px solid var(--blue-primary);
   border: 2px solid var(--blue-hover);
   transition: 0.3s;
 }
 
 .btn--neutral:hover,
 .btn--neutral:focus {
-  background-color: var(--clr-neutral-100);
-  color: var(--blue-primary);
-  background-color: var(--btn-hover);
-  border: 2px solid var(--blue-primary);
+  background-color: transparent;
+  color: var(--btn-hover);
+  /* border: 2px solid var(--btn-hover); */
 }
