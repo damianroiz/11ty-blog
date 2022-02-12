@@ -9,7 +9,7 @@ date: 2021-05-15
 tags:
   - feature
 image: /assets/blog/cover-photo.png
-imageAlt: This is a test
+imageAlt: Me having a great sleep
 ---
 Sleeping is the key element for recovery and the foundation for physical performance. It is vastly more important than your training, your diet, your supplements, and anything else you might be part of your “recovery toolkit”. Improving sleep quality has a direct impact on muscle recovery and muscle growth, stress levels reduction, improved mood and concentration, cognitive functions, and more stable and predictable energy levels throughout the day. By the time you finish this article, you will be equipped with some really effective techniques to radically optimize your sleep. Best of all, they are all simple enough to be implemented as soon as tonight.
 
@@ -45,7 +45,7 @@ You can hit a target that you can’t see so having a well assessed starting poi
 
 ### Follow A Night Ritual
 
-Prepare yourself to sleep at the same time every day. Putting on your sleeping clothes, like pyjamas (or in my case, just underwear and a t-shirt with a stain of olive oil) and following other nightime routines like brushing your teeth (and I hope you do) and getting your glass of water . Also, stopping any task that requires high levels of concentration like for example studying. Keeping these habits at night, work perfectly for triggering the signal in your brain that tells it is time to shut down soon.
+Prepare yourself to sleep at the same time every day. Putting on your sleeping clothes, like pyjamas (or in my case, just underwear and a t-shirt with a stain of olive oil) and following other nighttime routines like brushing your teeth (and I hope you do) and getting your glass of water . Also, stopping any task that requires high levels of concentration like for example studying. Keeping these habits at night, work perfectly for triggering the signal in your brain that tells it is time to shut down soon.
 
 ### Avoid Stimulants
 
@@ -53,11 +53,11 @@ Avoid caffeine and alcohol at least 6 hours before going to sleep: These substan
 
 ### Control Sugar Consumption
 
-Avoid sweet food and beverages late at night to prevent an insulin spike, which causes some of the same disruptive metabolic effects as the neurostimulants mentioned above. On top of that, sleep deprivation has a negative correlation in insulin resistance and glucose tolerance, so this feeds a vicious cycle of increased accumulated blood sugar levels, which is the main cause for diabetes.[(3)](https://www.alaskasleep.com/blog/blood-sugar-and-sleep-problems)
+Avoid sweet food and beverages late at night to prevent an insulin spike, which causes some of the same disruptive metabolic effects as the neurotransmitters mentioned above. On top of that, sleep deprivation has a negative correlation in insulin resistance and glucose tolerance, so this feeds a vicious cycle of increased accumulated blood sugar levels, which is the main cause for diabetes.[(3)](https://www.alaskasleep.com/blog/blood-sugar-and-sleep-problems)
 
 ### Sleep In Total Darkness
 
-Melatonin is the hormone that signals the brain it is time to shut off, this photosensitive hormone, which is produced in the pineal gland and found highly  concentrated in the retina and skin, gets activated when you are exposed to darkness. Melatonin plays a big role in what makes us durnial creatures, by wiring us to sleep at night. Therefore, sleeping in total darkness, to the point that you are not able to see your own hand in front of you, creates the perfect conditions for the natural release of melatonin in order to fall asleep faster.[(4)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6802208/)
+Melatonin is the hormone that signals the brain it is time to shut off, this photosensitive hormone, which is produced in the pineal gland and found highly  concentrated in the retina and skin, gets activated when you are exposed to darkness. Melatonin plays a big role in what makes us diurnal creatures, by wiring us to sleep at night. Therefore, sleeping in total darkness, to the point that you are not able to see your own hand in front of you, creates the perfect conditions for the natural release of melatonin in order to fall asleep faster.[(4)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6802208/)
 
 [](https://unsplash.com/photos/pj1aVH2tiLE?utm_source=Affinity%20Photo&utm_medium=referral)
 
