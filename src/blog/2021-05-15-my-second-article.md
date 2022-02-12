@@ -1,5 +1,5 @@
 ---
-title: Get Seep-Optimized
+title: "Water is Anabolic, And All Of This Too! "
 description: Sleeping is the key element for recovery and the foundation for
   physical performance. It is vastly more important than your training, your
   diet, your supplements, and anything else you might be part of your “recovery
@@ -17,21 +17,21 @@ Sleeping is the key element for recovery and the foundation for physical perform
 
 Sleeping is the key element for recovery and the foundation for physical performance. It is vastly more important than your training, your diet, your supplements, and anything else you might be part of your “recovery toolkit”. Improving sleep quality has a direct impact on muscle recovery and muscle growth, stress levels reduction, improved mood and concentration, cognitive functions, and more stable and predictable energy levels throughout the day. By the time you finish this article, you will be equipped with some really effective techniques to radically optimize your sleep. Best of all, they are all simple enough to be implemented as soon as tonight.
 
-## Stage One 
+### Stage One 
 
-Do you remember that boring class where you were drowsing off and weightlifting your eyelids to avoid falling asleep? Welcome to the first stage in your sleeping cycle. This first stage, which we experience while still under consciousness, has lower brain waves called Alpha and Theta. These waves leave us in a state of deep relaxation as our respiration and heart rate slightly drops and our minds switch over to a state of creativity and relaxation.[(1)](https://www.goodreads.com/book/show/6314210-powerful-sleep)
+Do you remember that boring class where you were drowsing off and weightlifting your eyelids to avoid falling asleep? Welcome to the first stage in your sleeping cycle. This first stage, which we experience while still under consciousness, has lower brain waves called Alpha and Theta. These waves leave us in a state of deep relaxation as our respiration and heart rate slightly drops and our minds switch over to a state of creativity and relaxation.(1)
 
-## Stage Two 
+### Stage Two 
 
-At this stage, the brain starts to shut off but we still remain under a certain level of consciousness as the body prepares to go into deep sleep. We experience patterns of brain waves called sleep spindles, and K-Complexes which create a sudden burst of brain activity.[(1)](https://www.goodreads.com/book/show/6314210-powerful-sleep)
+At this stage, the brain starts to shut off but we still remain under a certain level of consciousness as the body prepares to go into deep sleep. We experience patterns of brain waves called sleep spindles, and K-Complexes which create a sudden burst of brain activity.(1)
 
-## Stages Three And Four
+### Stages Three And Four
 
 We have to get to these two stages to experience deep sleep with blood pressure, respiration and heart rate reaching their lowest point. The brain moves back and forth from theta waves to delta waves which are of very low frequency.(1) It is during these stages that anabolic processes take place as GH activates and there is an outflow of blood from the organs to the muscles to nourish and repair body tissue.
 
-## Stage Five: REM
+### Stage Five: REM
 
-REM (Rapid Eye Movement) is the last stage of a sleeping cycle in which the eyes move rapidly in every direction as the brain experiences intense wave activity as if you were fully awake. At this stage we experience nice dreams or terrifying nightmares.[(1)](https://www.goodreads.com/book/show/6314210-powerful-sleep) During REM is also when we learn as short-term memories and experiences get saved as long-term memories.
+REM (Rapid Eye Movement) is the last stage of a sleeping cycle in which the eyes move rapidly in every direction as the brain experiences intense wave activity as if you were fully awake. At this stage we experience nice dreams or terrifying nightmares.(1) During REM is also when we learn as short-term memories and experiences get saved as long-term memories.
 
 While we sleep we go from Stage One to Rem multiple times. So in order to optimize our sleep, we should widen the segments from stage three to REM while taking less time to move away from the early stages.  By applying the following simple techniques, you will be able to sleep deeply and wake up (even by sleeping less time) with both your mind and body fully rested.[(2)](https://www.apa.org/monitor/julaug04/strengthen#:~:text=During%20REM%20sleep%2C%20the%20brain%20transfers%20short%2Dterm%20memories%20in,it%20in%20long%2Dterm%20memory.)
 
@@ -63,13 +63,11 @@ Melatonin is the hormone that signals the brain it is time to shut off, this pho
 
 ### Stay Away From Electronics
 
-![](/assets/blog/blue-light.png)
+![blue light from old tv screen](/assets/blog/blue-light.png)
 
 [Photo by JD X](https://unsplash.com/photos/pj1aVH2tiLE?utm_source=Affinity%20Photo&utm_medium=referral)
 
 Just as total darkness stimulates the production of melatonin, electronic gadgets like cell phones, TVs, and computers, suppress it. These devices produce blue lights, short range perceptible wavelengths lights help boost alertness and mood when we are naturally exposed to them during daylight hours. They produce a disruptive effect at night though, by throwing the circadian rhythm out of whack. And not only that, research shows that exposure to these lights is also linked to obesity as well as other diseases.[(5)](https://www.google.com/url?q=https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side&sa=D&ust=1591498047250000&usg=AFQjCNEKRx786JuI8Eto4s4AVSvtT-w4sw)
-
-
 
 ### Get More Sunlight
 
@@ -79,7 +77,7 @@ Besides being a good supplier of vitamin A, the sun is also by far the most natu
 
 Exercising during the morning generates more stable energy levels during the day and a subsequent drastic drop in body temperature at night. On the other hand, intense physical activity performed during late night hours causes core body temperature and stress hormones such cortisol and adrenaline to rise, which neutralizes the body’s efforts to enter in a state of deep relaxation necessary to fall asleep. [(6)](https://www.hopkinsmedicine.org/health/wellness-and-prevention/exercising-for-better-sleep)
 
-![me doing pull-ups in the park](/assets/blog/pullups-in-the-park.png)
+![Damian doing pull-ups in the park](/assets/blog/pullups-in-the-park.png)
 
 Besides being a good supplier of vitamin A, the sun is also by far the most natural (and cheaper) body’s stimulant. Sunlight exposure, especially during early morning hours keeps the circadian clock in check and helps raise body temperature, to remain awake, alert and productive during the day. On the other hand, poor exposure to natural light leads to feelings of drowsiness and bad mood, unstable levels of energy and difficulty to fall asleep which can lead to insomnia.
 
@@ -93,7 +91,7 @@ Damian
 
 ### Reference
 
-1. [Powerful Sleep: Secrets of the Inner Sleep Clock by Kacper M. Postawski](https://www.goodreads.com/book/show/6314210-powerful-sleep)
+1. Powerful Sleep: Secrets of the Inner Sleep Clock by Kacper M. Postawski
 2. [Mark Greer. Strengthen Your Brain By Resting It](https://www.google.com/url?q=https://www.apa.org/monitor/julaug04/strengthen%23:~:text%3DDuring%2520REM%2520sleep%252C%2520the%2520brain%2520transfers%2520short%252Dterm%2520memories%2520in,it%2520in%2520long%252Dterm%2520memory&sa=D&ust=1591498047251000&usg=AFQjCNGY4BPmZlFY1sB1_cvRkkHjGr7GjQ). American Psychological Association. July/August 2004, Vol 35, No. 7. Print version: page 60
 3. [Jennifer Hines. Blood Sugar and Sleep Problems: How Blood Sugar Levels Impact Sleep.](https://www.alaskasleep.com/blog/blood-sugar-and-sleep-problems) Alaska Sleep Education Center. August 7, 2018, 9:00:00 AM
 4. [Rusanova I, Martínez-Ruiz L, Florido J, and others. Protective Effects of Melatonin on the Skin: Future Perspectives.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6802208/) Int J. Mol. Sci. 2019, 20, 4948. October 8, 2019
