@@ -1,5 +1,5 @@
 ---
-title: My Third Article
+title: "Plain and Simple Guide To HIIT "
 description: High Intensity Interval Training (HIIT) is one of the most well
   known training style to lose fat and improve cardiovascular health. It
   consists in combining lapses of low intensity with bursts of high intensity
@@ -77,15 +77,13 @@ At this point you are free from the treadmill, so congratulations for that! Now,
 
 This is an EMOM (every minute on the minute) in which you have to complete the prescribed sets or time for each exercise in one minute followed by a minute of rest, going through the same sequence  (one minute on, one minute off) until completing the total prescribed time each week. 
 
-### Cool-Down
+### Cool-down
 
-|                                  |                        |
-| -------------------------------- | ---------------------- |
-| Cat Stretch                      | 45 seconds             |
-| Standing One-Legged Quad Stretch | 45 seconds (each side) |
-| Calf Stretch Against Wall        | 45 seconds (each side) |
-| Hurdler Hamstring Stretch        | 45 seconds (each side) |
-| Belly Breathing                  | 5 Minutes              |
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
+
 
 ![](https://damianroiz.com/wp-content/uploads/2020/04/plank-2.png)
 
