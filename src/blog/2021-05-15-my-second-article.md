@@ -1,9 +1,9 @@
 ---
 title: "Water is Anabolic, And All Of This Too! "
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
+description: Sleeping is the key element for recovery and the foundation for
+  physical performance. It is vastly more important than your training, your
+  diet, your supplements, and anything else you might be part of your “recovery
+  toolkit”.
 author: Damian Roiz
 date: 2021-05-15
 tags:
