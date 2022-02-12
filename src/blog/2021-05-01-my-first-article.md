@@ -8,7 +8,7 @@ date: 2021-05-01T04:00:00.000Z
 image: https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80
 imageAlt: rope swings
 ---
-![](https://damianroiz.com/wp-content/uploads/2020/07/cover-photo.png)Unless you have a well-equipped home gym or some other personal training facility, having the gym locked down was one of hardest pills to swallow during this crazy pandemic. Even after maintaining the discipline to train at home or parks, the drawback of having to deal space limitation, unstructured training and lack of proper equipment left little chances to maintain the same level of fitness, not to mention make any progress. In my case, all I had to rely on were some resistance bands I purchased online, an old jumping rope, and a winter tire from my car that would get me super pumped up and dirty, making me feel like a Martha Stewart version of Rambo every time I used it. 
+Unless you have a well-equipped home gym or some other personal training facility, having the gym locked down was one of hardest pills to swallow during this crazy pandemic. Even after maintaining the discipline to train at home or parks, the drawback of having to deal space limitation, unstructured training and lack of proper equipment left little chances to maintain the same level of fitness, not to mention make any progress. In my case, all I had to rely on were some resistance bands I purchased online, an old jumping rope, and a winter tire from my car that would get me super pumped up and dirty, making me feel like a Martha Stewart version of Rambo every time I used it. 
 
 Finally, gyms are getting reopened and now it is up to us to navigate this transition from stretching bands and curling lamps to lifting real weights. Counting on some guidance during the first few weeks is critical to put our routines back in order without frustration, or even worse… injuries. Therefore, here I share some advice that if properly applied, would allow you to have a smooth and well-organized adaptation as if you had never left the gym.
 
@@ -24,13 +24,10 @@ Let’s face it, you are going to feel weak! It’s amazing how much strength we
 
 ### Sample Squat Routine
 
-| Week 1 | 3 Sets x 10 Reps       |
-| ------ | ---------------------- |
-| Week 2 | 4 Sets x 10 Reps       |
-| Week 3 | 3 Sets x 8 Reps(*)     |
-| Week 4 | 3 Sets x 8 Reps (\*\*) |
-
-
+* Week 1: 3 sets x 10 reps 
+* Week 2: 4 sets x 10 reps 
+* Week 3: 3 sets x 8 reps(\*\*) 
+* Week 4: 3 sets x 8 reps(\*\*) 
 
 (*) Add 10% of the weight of the previous sets and perform 1 sets x 6 reps
 
