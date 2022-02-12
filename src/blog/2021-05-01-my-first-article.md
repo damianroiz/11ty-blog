@@ -5,6 +5,8 @@ description: Unless you have a well-equipped home gym or some other personal
   swallow during this crazy pandemic.
 author: "Damian "
 date: 2021-05-01T04:00:00.000Z
+tags:
+  - featured
 image: https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80
 imageAlt: rope swings
 ---
