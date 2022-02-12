@@ -1,5 +1,5 @@
 ---
-title: "Back To Training Arter Time Off "
+title: "Coming Back To Training After Time Off "
 description: Unless you have a well-equipped home gym or some other personal
   training facility, having the gym locked down was one of hardest pills to
   swallow during this crazy pandemic.
