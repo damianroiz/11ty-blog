@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Damian Roiz
 date: 2021-05-15
 tags:
-  - feature
+  - featured
 image: /assets/blog/cover-photo.png
 imageAlt: Me having a great sleep
 ---
