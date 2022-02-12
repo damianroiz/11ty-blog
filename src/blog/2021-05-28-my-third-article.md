@@ -79,13 +79,13 @@ This is an EMOM (every minute on the minute) in which you have to complete the p
 
 ### Cool-down
 
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+Cat Stretch 	45 seconds
+Standing One-Legged Quad Stretch 	45 seconds (each side)
+Calf Stretch Against Wall 	45 seconds (each side)
+Hurdler Hamstring Stretch 	45 seconds (each side)
+Belly Breathing 	5 Minutes
 
-
-![](https://damianroiz.com/wp-content/uploads/2020/04/plank-2.png)
+![](/assets/blog/plank.png)
 
 > "You are as strong as your foundation"
 
