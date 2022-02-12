@@ -4,7 +4,7 @@ description: Sleeping is the key element for recovery and the foundation for
   physical performance. It is vastly more important than your training, your
   diet, your supplements, and anything else you might be part of your “recovery
   toolkit”.
-author: Damian Roiz
+author: Damian
 date: 2021-05-15
 tags:
   - featured
