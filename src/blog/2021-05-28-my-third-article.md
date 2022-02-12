@@ -68,12 +68,23 @@ At this point you are free from the treadmill, so congratulations for that! Now,
 
 ### Part Two: EMOM
 
-| Week 1                  | Week 2                           | Week 3                  | Week 4                  |
-| ----------------------- | -------------------------------- | ----------------------- | ----------------------- |
-| 3 Sets                  | 3 Sets                           | 4 Sets                  | 4 Sets                  |
-| Push-Up10 reps          | Diamond Push-Up10 reps           | Superman Push-Up12 reps | Elevated Push-Up12 reps |
-| Hollow Body Rock20 reps | Sit-Up to Bridge20 reps          | V-Up15 reps             | Turtle Squat12 reps     |
-| Plank1 minute           | Side Plank30 seconds (each side) | Inverted Plank1 minute  | Wall Plank1 minute      |
+Week 1 	Week 2 	Week 3 	Week 4	
+3 Sets 	3 Sets 	4 Sets 	4 Sets
+Push-Up
+10 reps 	Diamond Push-Up
+10 reps 	Superman Push-Up
+12 reps 	Elevated Push-Up
+12 reps
+Hollow Body Rock
+20 reps 	Sit-Up to Bridge
+20 reps 	V-Up
+15 reps 	Turtle Squat
+12 reps
+Plank
+1 minute 	Side Plank
+30 seconds (each side) 	Inverted Plank
+1 minute 	Wall Plank
+1 minute
 
 This is an EMOM (every minute on the minute) in which you have to complete the prescribed sets or time for each exercise in one minute followed by a minute of rest, going through the same sequence  (one minute on, one minute off) until completing the total prescribed time each week. 
 
