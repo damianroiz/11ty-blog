@@ -3,7 +3,7 @@ title: My Third Article
 description: High Intensity Interval Training (HIIT) is one of the most well
   known training style to lose fat and improve cardiovascular health. It
   consists in combining lapses of low intensity with bursts of high intensity
-author: Damian Roiz
+author: Damian
 date: 2021-05-28
 tags:
   - post
