@@ -63,13 +63,11 @@ Melatonin is the hormone that signals the brain it is time to shut off, this pho
 
 ### Stay Away From Electronics
 
-![](/assets/blog/blue-light.png)
+![blue light from old tv screen](/assets/blog/blue-light.png)
 
 [Photo by JD X](https://unsplash.com/photos/pj1aVH2tiLE?utm_source=Affinity%20Photo&utm_medium=referral)
 
 Just as total darkness stimulates the production of melatonin, electronic gadgets like cell phones, TVs, and computers, suppress it. These devices produce blue lights, short range perceptible wavelengths lights help boost alertness and mood when we are naturally exposed to them during daylight hours. They produce a disruptive effect at night though, by throwing the circadian rhythm out of whack. And not only that, research shows that exposure to these lights is also linked to obesity as well as other diseases.[(5)](https://www.google.com/url?q=https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side&sa=D&ust=1591498047250000&usg=AFQjCNEKRx786JuI8Eto4s4AVSvtT-w4sw)
-
-
 
 ### Get More Sunlight
 
