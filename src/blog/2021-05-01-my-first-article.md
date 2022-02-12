@@ -12,6 +12,8 @@ Unless you have a well-equipped home gym or some other personal training facilit
 
 Finally, gyms are getting reopened and now it is up to us to navigate this transition from stretching bands and curling lamps to lifting real weights. Counting on some guidance during the first few weeks is critical to put our routines back in order without frustration, or even worse… injuries. Therefore, here I share some advice that if properly applied, would allow you to have a smooth and well-organized adaptation as if you had never left the gym.
 
+
+
 ## Take Extra Time To Stretch
 
 Even if it is summertime and you feel like like you are flames just by going outside, increased body temperature does not necessarily translate to muscle readiness for exercise. Considering all those long weeks you have been out of the gym, taking some extra time to move joints and muscles is a good investment to avoid injury in areas that might have been kept inactive. Ankles, knee joints, lumbar (due to sitting too much), wrists and shoulders are the main body parts you should pay special attention to as they tend to tighten up quickly due to bad posture and lack of movement.
@@ -37,13 +39,19 @@ Let’s face it, you are going to feel weak! It’s amazing how much strength we
 
 (\*\*)Add 10% of the weight of the previous sets and perform 2 set x 6 reps
 
+
+
 ## Take An Extra Day Off (even if you think you don’t need it)
 
 Even if we feel we need to recoup these lost months of confinement, doing so by skipping rest days is a recipe for disaster. It is critical to induce sustainable conditions for increased physical stress coupled with full recovery. If you still feel the crave to train every day, then dedicate some sessions exclusively to do movement flows or short cardiovascular training to promote flexibility and recovery by increasing blood flow to the muscles. It is critical to stay away from heavy weights for at least one full day to avoid overtraining, as this could open the door to muscle tightness, crams, knots or more serious acute injuries. Take it easy for the first couple of weeks and see how quickly your efforts will compound faster than you thought.
 
+
+
 ## Train at Regular Hours Every Day
 
 The brain works better by association and having a fixed training time contributes to a better adaptation. We have more available time than ever before, so unless you have to deal with family commitments or work zoom meetings (that you probably attend in underwear), reserve some time blocks in your agenda for training as if you were going to work or school. It doesn't really matter if you choose to train in the morning or afternoon, as long as you keep regularity at the start time and duration of each session, this would get your body back on track into its work and rest mode.
+
+
 
 ## Put Your Sleeping Routine In Order
 
@@ -51,9 +59,13 @@ Training at regular times is important but not as much as your sleep quality. Th
 
 Coming back to training is easy, we have all been craving that for months! The real challenge comes to coming back to our sleeping routine, In my case, I got used to staying up late at night glued to some screen, either for work or leisure, knowing that I could still sleep in the whole morning without having to deal with a dreadful commute to work. However, even if we can count on more time available to sleep, the circadian clock is till working at a pre-pandemic time, and most of the hormonal processes that lead to cellular growth and recovery still happens during the night, [between 10pm and 2 am to be more specific](https://www.piercepublic.org/vimages/shared/vnews/stories/59b7fdc3b3627/sleepmanual.pdf)(1), so structuring your bedtime is well worth it.  
 
+
+
 ## Organize Your Training Around Your Priorities
 
 If you are looking to regain strength, cardio sessions can jeopardize your progress. If cardiovascular training is a fundamental part of your routine either because you want to lose weight, improve endurance or participate in some sport event, then keep your strength and cardio sessions separate. The ideal approach would be to to have these two training types on different days, if performed during the same day, at least give yourself a wide window of rest between the two sessions, starting with your strength training in the morning while reserving your cardio session for late afternoon. However, If you are coming back to the gym to regain strength and grow muscle mass, then you should keep your cardio down to a minimum, from one or two sessions a week, or else, if you are enjoying summer, during those nice days dedicated to outdoor activities.
+
+
 
 ## Do Not Add Drastic Diet Changes
 
@@ -62,6 +74,8 @@ This is not the right time to implement drastic diet changes unless you feel mot
 > *“Focus on one goal at a time so that you can accomplish all of them.”*
 
 Facing the fact that you are not performing as well as you used to should not be a reason to push passed your new limits. Instead, allow yourself to create an environment from which you could adapt steadily and grow. Restructuring your training routines and habits, taking some extra time off to recover and focusing on taking each goal at a time is the smartest approach you can take to regain your athletic performance. 
+
+
 
 ### Reference
 
