@@ -11,31 +11,25 @@ tags:
 image: /assets/blog/running.png
 imageAlt: running
 ---
-
-
 High Intensity Interval Training (HIIT) is one of the most well known training style to lose fat and improve cardiovascular health. It consists in combining lapses of low intensity with bursts of high intensity, which you can implement simply by adding short sprints to your current jogging routine or any other known-to-be-good-for-cardio activity like biking, hiking or my favourite, swimming, which I call HIIS (high intensity interval swimming), going for two laps at slow to intermediate speed, followed by one lap at maximum speed that I try to complete without breathing, while imagining there is a shark or crocodile chasing me (I know you might be thinking I have mental issues, but believe me, if you have good imagination, it definitely works!)
 
 Alright, enough with imaginary animals, here are some of the reasons that allow HIIT to  provide such incredible results...
 
-### Burn Calories
+## Burn Calories
 
 HIIT is really taxing on the metabolism, melting fat as if you were a slice of bacon cooking in a pan. This is due to this high-metabolic effect called post-exercise oxygen consumption or EPOC which comes as a natural body response to the stress generated from high intensity physical activity. Scientists from the University of Alabama compared energy expenditure during the 24 hours following exercise on both one group that cycled for 60 minutes at steady moderate intensity and another group that cycled for two minutes at high intensity followed by two minutes of low intensity. The results showed that the group that performed HIIT burned 160 more calories in 24 hours than the low intensity group. [(1)](https://www.amazon.com/Burn-Fat-Feed-Muscle-Transform-ebook/dp/B00DFIF342)
 
- 
-
-### Wake up hormones
+## Wake up hormones
 
 Drastic repeated fluctuations in physical activity intensity causes a hormonal shock that favours the reduction of insulin resistance over time due to cells becoming more efficient at recruiting stored glucose as a source of energy. Data from studies investigating the effect of HIIT on improving insulin sensitivity and glucose metabolism indicates this can be improved 23% to 58%. Other released hormones are adrenaline and noradrenaline, known for triggering lipolysis, a process by which subcutaneous and intramuscular fat tissue is released for the production of ATP. Stimulating these hormones can therefore contribute to decreasing fat levels located in the mid-section where it tends to be more stubborn.[(2)](https://www.hindawi.com/journals/jobe/2011/868305/)
 
- 
-
-### Build a kick-ass heart
+## Build a kick-ass heart
 
 Studies have shown that HDL (High Density Lipoprotein) which is tagged as “good cholesterol” improves after a minimum of 8 weeks of training. [(2)](https://www.hindawi.com/journals/jobe/2011/868305/) his paired with the fat loss properties of HIIT mentioned above, generates improvements in total cholesterol, LDL cholesterol and blood triglycerides levels, which contributes to the betterment of cardiovascular health. Is this only reserved to fit people ? It is not. Cardiovascular health benefits also extend to  patients with lower aerobic fitness such as those recovering from CHD (coronary heart disease) when applied to their cardiac rehabilitation program. [(3)](https://www.sciencedirect.com/science/article/pii/S1877065716300367?via%3Dihub)
 
- 
+## Program Introduction
 
-Program Introduction
+![](/assets/blog/treadmill.png)
 
 [Photo by Ryan de Hamer on Unsplash](https://unsplash.com/photos/pCT8ag1o3nU)
 
@@ -45,21 +39,15 @@ Once the first part of work in the treadmill is completed, we move on to an EMOM
 
 The is meant to be a stand-alone program so you might want to dedicate exclusively a day each week to complete it. However, if you decide to take this program as an add-on to your current strength routine, make sure you are giving yourself adequate time for recovery.
 
- 
-
 ### Program Goals
 
 * Improve Lean Muscle Mass / Fat Ratio
 * Improve Cardiovascular Endurance
 * Increase Metabolic Rate
 
- 
-
 ### Guidelines
 
 Start this first portion on the treadmill by warming up at your desired speed (4 mph to 6 mph as an example) before jumping in to the rounds, aim at keeping a “jog speed” at around 8 mph and “sprint speed” from 10 to 12 mph. Always remember to take these speed levels as guidance and adjust the intensity to a level that allows you to challenge yourself while remaining within the 2:1 ratio. Before you start, invest some time to play around with your treadmill setup, there are some that come already with a HIIT function in which you can enter speed levels as well other variables such as warm-up, cool-down and inclination to have them changed automatically.
-
- 
 
 ### Part One: HIIT
 
@@ -78,8 +66,6 @@ Once you complete all prescribed rounds, cool down ideally at the same jogging s
 
 At this point you are free from the treadmill, so congratulations for that! Now, [give yourself some time to drink some water](https://damianroiz.com/water), stretch, and rest for about 5 to 10 minutes so that you can get ready for the next EMOM.
 
- 
-
 ### Part Two: EMOM
 
 | Week 1                  | Week 2                           | Week 3                  | Week 4                  |
@@ -90,8 +76,6 @@ At this point you are free from the treadmill, so congratulations for that! Now,
 | Plank1 minute           | Side Plank30 seconds (each side) | Inverted Plank1 minute  | Wall Plank1 minute      |
 
 This is an EMOM (every minute on the minute) in which you have to complete the prescribed sets or time for each exercise in one minute followed by a minute of rest, going through the same sequence  (one minute on, one minute off) until completing the total prescribed time each week. 
-
- 
 
 ### Cool-Down
 
@@ -107,13 +91,9 @@ This is an EMOM (every minute on the minute) in which you have to complete the p
 
 > "You are as strong as your foundation"
 
- 
-
 ### Build from here...
 
 If you are looking to burn fat in short yet effective sessions without jeopardizing your plans to grow muscle mass while also improving your cardiovascular health, HIIT is a perfect approach that brings the best out of each world. You can now count on this program as a foundation from which you can advance upon and adapt to your own fitness needs.  If you are new to HIIT, start small, respecting your own adaptation process so that this training merges well into your current routine. Above all, enjoy the process and make it as much fun as possible. If you have any questions regarding this program or you have been experimenting with HIIT and you would like to share your results, leave your comments below.
-
- 
 
 #### Reference
 
