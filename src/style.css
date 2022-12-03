@@ -1,3 +1,4 @@
+
 @import url(https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans&family=Poppins&family=Raleway:wght@600&display=swap);
 
 :root {
@@ -15,7 +16,7 @@
   --fw-400: 400;
   --fw-600: 600;
 
-  --clr-primary-200: #e0e3f0;
+  --clr-section-background: #e0e3f0;
   --blue-primary: #1e90ff;
   --btn-hover: #0d4171;
   --btn-subscribe: #159f13;
@@ -37,37 +38,24 @@
   }
 }
 
-/* //////////////////////
-  RESET - source: https://piccalil.li/blog/a-modern-css-reset
-  /////////////////////// */
-
 /* Box sizing rules */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
 
-/* Remove default margin */
-body,
-h1,
-h2,
-h3,
-h4,
-p,
-figure,
-blockquote,
-dl,
-dd {
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul:where([role="list"]),
 ol:where([role="list"]) {
   list-style: none;
-  margin: 0;
-  padding: 0;
+}
+
+ul {
+  list-style: none;
 }
 
 /* Set core root defaults */
@@ -82,9 +70,13 @@ body {
   line-height: 1.5;
 }
 
-/* A elements that don't have a class get default styles */
+/* A elements that don't have a class get defaults underline*/
 a:not([class]) {
-  text-decoration-skip-ink: auto;
+  text-decoration-skip-ink: auto; /*underline to not cover font*/
+}
+
+a {
+  text-decoration: none;
 }
 
 /* Make images easier to work with */
@@ -136,7 +128,8 @@ h2,
 h3 {
   font-family: var(--ff-heading);
   font-weight: var(--fw-600);
-  line-height: 1.1;
+  line-height: 1.2;
+  letter-spacing: 1.3px;
 }
 
 strong {
@@ -173,8 +166,7 @@ section,
 .flex-group {
   display: flex;
   flex-wrap: wrap;
-  align-items: stretch;
-  gap: 1em;
+  gap: var(--gap, 1em);
 }
 
 .text-center {
@@ -194,6 +186,10 @@ section,
 
 .section-title {
   font-size: var(--fs-600);
+}
+
+input {
+  outline: none;
 }
 
 /* //////////////////////
@@ -336,16 +332,6 @@ nav ul.nav-bar li.btn.hide i:before {
 /* //////////////////////
   Footer
   /////////////////////// */
-
-/* .site-footer {
-  --logo-color: currentColor;
-  padding: 2em 0;
-  color: var(--clr-neutral-100);
-  background-color: var(--btn-hover);
-  text-align: center;
-} */
-
-/*Imported footer from main*/
 
 footer {
   position: relative;
