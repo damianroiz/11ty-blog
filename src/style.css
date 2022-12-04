@@ -340,7 +340,7 @@ nav ul.nav-bar li.btn.hide i:before {
 
   footer {
     width: 100%;
-    background: #5e5e65;
+    background: var(--secondary-dark);
     min-width: 320px;
   }
   
