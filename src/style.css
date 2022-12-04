@@ -225,18 +225,16 @@ input {
 
 nav {
   background: var(--secondary-dark);
-  padding: 5px 40px;
-  height: 100px;
+  padding: 20px 40px;
 }
 
 nav ul.nav-bar {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-content: end;
+  align-content: center;
   list-style: none;
   max-height: auto;
-  padding-top: 15px;
 }
 
 nav ul.nav-bar li {
@@ -305,29 +303,36 @@ nav ul.nav-bar li.btn.hide i:before {
   content: "\f00d";
 }
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 768px) {
   nav {
-    padding: 5px 30px;
+    padding: 25px 40px;
+  }
+  nav.show {
+    height: auto;
   }
   nav ul.nav-bar li.items {
     width: 100%;
     display: none;
   }
-  nav ul.nav-bar li.items.show {
-    display: block;
-  }
-  nav ul.nav-bar li.btn {
-    display: block;
+
+  nav ul.nav-bar.show {
+    width: inherit;
+    background: var(--secondary-dark);
   }
 
-  nav ul.nav-bar li.items:hover {
-    border-radius: 5px;
-    box-shadow: inset 0 0 5px var(--blue-primary), inset 0 0 10px #3f9efc;
+  nav ul.nav-bar li.items.show {
+    display: block;
+    padding-bottom: 2px;
+  }
+
+  nav ul.nav-bar li.btn {
+    display: block;
   }
   nav ul.nav-bar li.items:hover:after {
     opacity: 0;
   }
 }
+
 
 /* //////////////////////
   Footer
@@ -335,7 +340,7 @@ nav ul.nav-bar li.btn.hide i:before {
 
   footer {
     width: 100%;
-    background: #303036;
+    background: #5e5e65;
     min-width: 320px;
   }
   
